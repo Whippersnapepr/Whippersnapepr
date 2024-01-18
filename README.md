@@ -1,4 +1,4 @@
-### Hi there 👋
+### My name is Andrew Bennett, I am a Game Dev student. I plan on becoming a teacher in the future, so game dev will most likely forever just be my passion work. I do love the creative process, I love(d, at one point) coding, and animation. Blender is my main creative outlet, because I know how to do things on there. If I had more time and energy, I'm sure I would pursue a career in Game Dev along with my teaching somehow. My favorite games are Hollow Knight, Dead Cells, BOTW, Inscryption, and a lot of others that I cant remember, but I know I love. I want to know C#, maybeeeee some others like python. 
 
 <!--
 **Whippersnapepr/Whippersnapepr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
